@@ -7,7 +7,7 @@
 
 ![findings](https://img.shields.io/badge/findings-34-1F4E78?style=flat-square) ![critical](https://img.shields.io/badge/critical-1-7B1D1D?style=flat-square) ![high](https://img.shields.io/badge/high-12-D92D20?style=flat-square) ![medium](https://img.shields.io/badge/medium-12-DC8A06?style=flat-square) ![low](https://img.shields.io/badge/low-9-4A8BC9?style=flat-square) ![OWASP](https://img.shields.io/badge/OWASP-Top%2010%20(2021)-333333?style=flat-square)
 
-### [📄 Read the full report (PDF)](CCMS_Security_Assessment_Report.pdf) &nbsp;·&nbsp; [Editable version (DOCX)](CCMS_Security_Assessment_Report.docx)
+### [📄 Read the full report (PDF)](CCMS_Security_Assessment_Report.pdf)
 
 </div>
 
@@ -159,7 +159,6 @@ The report covers:
 | File | Description |
 | --- | --- |
 | [`CCMS_Security_Assessment_Report.pdf`](CCMS_Security_Assessment_Report.pdf) | Final assessment report (34 findings, 22 pages) |
-| [`CCMS_Security_Assessment_Report.docx`](CCMS_Security_Assessment_Report.docx) | Editable Word version of the same report |
 | `README.md` | Project overview and summary of results |
 
 ## Skills Demonstrated
